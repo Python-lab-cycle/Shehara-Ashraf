@@ -1,0 +1,5 @@
+a=int(input("enter 1st number :"))
+b=int(input("enter 2st number :"))
+c=int(input("enter 3st number :"))
+big=max(a,b,c)
+print("largest n20umber = ",big)
